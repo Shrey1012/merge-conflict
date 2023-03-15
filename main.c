@@ -14,9 +14,14 @@ Initial Security()
  //Sample Code
 }
 
-// code from feature 1 branch 
+// code from featugitre 1 branch 
 Feature1(){
   
 }
+// code from feature 2 branch 
+Feature2(){
+  
+}
+
 
 }
